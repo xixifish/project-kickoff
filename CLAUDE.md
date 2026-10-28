@@ -71,3 +71,6 @@ Link skills/project-kickoff into ~/.claude/skills/ so edits take effect immediat
 ## Open questions to settle first
 1. Testing: run 2–3 made-up project ideas with and without the skill, review side by side
    (uses helper agents; ask before running)
+   Must include: a user who mentions something casually mid-kickoff (e.g. "it'd be nice if
+   other parents could use it too"). Good: asks what they mean. Bad: redesigns the project
+   for the public. (Found in a real test, 2026-10-28.)
