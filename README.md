@@ -35,3 +35,7 @@ cp -r project-kickoff/skills/project-kickoff ~/.claude/skills/
 ```
 
 Then describe a new project idea to Claude Code, or type `/project-kickoff`.
+
+## License
+
+[MIT](LICENSE) © Jing Chen
